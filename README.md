@@ -1,3 +1,3 @@
 This application was developed using .C # and Unity.
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/ezgigokdemir/Yummy/blob/master/ProjectImage/image1.png)](https://github.com/ezgigokdemir/Yummy/blob/master/ProjectImage/Yummy%2023.06.2019%2022_44_24.mp4)
